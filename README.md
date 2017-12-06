@@ -2,6 +2,8 @@
 
 Help Annie win money for the animal shelter in memory of Kayla
 
+See [https://thomasplevy.github.io/ForKayla/](https://thomasplevy.github.io/ForKayla/)
+
 # Privacy Policy
 
 I won't do anything bad or be a jerk. I'm not storing any information. I won't know who you are and I don't want to.
