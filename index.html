@@ -12,8 +12,24 @@
     </head>
     <body>
 
-        <h1>#ForKayla</h1>
+        <main>
 
+            <h1>#ForKayla</h1>
+
+            <div id="embed"></div>
+
+            <a id="init-auth" href="https://api.instagram.com/oauth/authorize/?client_id=0cfdf33dbe4e4d8db6594ea35a710560&redirect_uri=https://thomasplevy.github.io/ForKayla/&response_type=token&scope=public_content+comments">Authorize</a>
+
+            <div id="main">
+                <textarea rows="3" id="comment" maxlength="300">#AnnieWillWin #ForKayla #TeamCrossfitAcademy</textarea>
+                <button id="gobutton" type="button">Start Winning</button>
+                <div id="avatar"></div>
+            </div>
+
+        </main>
+
+        <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+        <script src="js/main.js"></script>
 
     </body>
 </html>
