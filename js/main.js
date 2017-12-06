@@ -2,7 +2,7 @@
 
 	function do_embed( cb ) {
 
-		$.get( 'http://api.instagram.com/oembed?callback=&url=https://www.instagram.com/p/BcQUVbpA3Y8/', function( res, status ) {
+		$.get( 'https://api.instagram.com/oembed?callback=&url=https://www.instagram.com/p/BcQUVbpA3Y8/', function( res, status ) {
 
 			console.log( res, status );
 
